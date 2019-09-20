@@ -1,5 +1,5 @@
 {
-    "name": "jcchavezs/zipkin-opentracing",
+    "name": "reasno/zipkin-opentracing",
     "description": "A Zipkin bridge with OpenTracing",
     "type": "library",
     "require": {
